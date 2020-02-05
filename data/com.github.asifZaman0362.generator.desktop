@@ -1,0 +1,11 @@
+[DesktopEntry]
+Name=Generator
+GenericName=Random Number Generator
+Comment=Generates random numbers in a given range and can also simulate coin flips.
+Categories=Utility;Education;
+Type=Application
+Icon=generator
+Exec=com.github.asifZaman0362.generator
+Terminal=false
+Keywords=Random;Number;Generator;Coin;Toss;Flip;
+StartupWMClass=Generator

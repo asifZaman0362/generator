@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 Asif Zaman <zero362001@gmail.com> -->
+<component type="desktop">
+	<id>com.github.asifZaman0362.generator</id>
+	<metadata_license>CC0</metadata_license>
+	<name>Generator</name>
+	<summary>Generate random numbers and simulate coin flips for unsure decisions</summary>
+	<description>
+		<p>Generate random numbers between custom ranges and simulate coin flips to tackle unsure decisions like a boss</p>
+	</description>
+	<custom>
+		<value key="x-appcenter-color-primary">#00FF00</value>
+		<value key="x-appcenter-color-primary-text">#FF00FF</value>
+		<value key="x-appcenter-suggested-price">1</value>
+	</custom>
+</component>
